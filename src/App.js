@@ -5,7 +5,7 @@ const App = () => {
   
   const name = 'Christoph'
   const nachname = 'Giesinger'
-  const alter = 13
+  const alter = 14
   
   return (
   

@@ -9,8 +9,6 @@ const App = () => {
   
   return (
   
-  
-  
   <>
     <div className="App">
         <h1>Hallo {name} {nachname}, du bist {alter} Jahre alt</h1>
